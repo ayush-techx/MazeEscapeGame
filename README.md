@@ -34,4 +34,5 @@
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/ayush-techx/MazeEscapeGame.git
-   cd maze-game
+   cd MazeEscapeGame
+
